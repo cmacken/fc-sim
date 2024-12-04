@@ -1,0 +1,1 @@
+from fcsim.game.manager import GameInstance
